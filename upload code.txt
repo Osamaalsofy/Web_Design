@@ -1,0 +1,18 @@
+git add .
+git commit -m "message"
+git push disability master
+
+
+
+echo "# Web_Design" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Osamaalsofy/Web_Design.git
+git push -u origin main
+
+
+git remote add origin https://github.com/Osamaalsofy/Web_Design.git
+git branch -M main
+git push -u origin main
