@@ -1,5 +1,6 @@
+cd OneDrive\Desktop\Disablitiy
 git add .
-git commit -m "message"
+git commit -m "massege"
 git push disability master
 
 
