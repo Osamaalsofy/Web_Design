@@ -1,19 +1,19 @@
-cd OneDrive\Desktop\Disablitiy
+cd OneDrive\Desktop\ecc006
 git add .
-git commit -m "massege"
-git push disability master
+git commit -m "Marge All homework"
+git push web_design master
 
 
 
-echo "# Web_Design" >> README.md
+echo "# web_design" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Osamaalsofy/Web_Design.git
-git push -u origin main
+git branch -M master
+git remote add origin https://github.com/Osamaalsofy/web_design.git
+git push -u origin master
 
 
-git remote add origin https://github.com/Osamaalsofy/Web_Design.git
+git remote add origin https://github.com/Osamaalsofy/web_design.git
 git branch -M main
 git push -u origin main
