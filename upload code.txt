@@ -1,6 +1,6 @@
-cd OneDrive\Desktop\ecc006
+cd OneDrive\Desktop\Semester_4\Web design\profile
 git add .
-git commit -m "Marge All homework"
+git commit -m "h10"
 git push web_design master
 
 
@@ -8,7 +8,7 @@ git push web_design master
 echo "# web_design" >> README.md
 git init
 git add README.md
-git commit -m "first commit"
+git commit -m "h10"
 git branch -M master
 git remote add origin https://github.com/Osamaalsofy/web_design.git
 git push -u origin master
